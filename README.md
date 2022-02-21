@@ -40,7 +40,7 @@
 
   Link to GitHub: [https://github.com/jacobluedke](https://github.com/jacobluedke)
 
-  Link to Deployed App: []()
+  Link to Deployed App: [https://note-taker129.herokuapp.com/notes](https://note-taker129.herokuapp.com/notes)
   ## Screenshots
   `Note Taker App before typing new note`
   ![Screenshot of Note Taker App before typing a new note](/images/note-taker-ss.png)
