@@ -1,7 +1,7 @@
   ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
   # README-Generator
   ## Description
-  
+  This application allows the user to write, save and delete notes. Notes are saved even if the page is reloaded. Deleted notes stay deleted after the page is reloaded. It uses express and uuid.
   ## Table of Contents
   [Installation](#installation)
 
