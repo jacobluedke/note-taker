@@ -43,7 +43,7 @@
   Link to Deployed App: [https://note-taker129.herokuapp.com/notes](https://note-taker129.herokuapp.com/notes)
   ## Screenshots
   `Note Taker App before typing new note`
-  ![Screenshot of Note Taker App before typing a new note](/images/note-taker-ss.png)
+  ![Screenshot of Note Taker App before typing a new note](/Images/note-taker-ss.png)
 
   `Note Taker App after typing new note`
-  ![Screenshot of Note Taker App after typing a new note](/images/note-taker-ss2.png)
+  ![Screenshot of Note Taker App after typing a new note](/Images/note-taker-ss2.png)
